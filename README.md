@@ -33,5 +33,6 @@
  *   or when the user explicitly clicks “Refresh”.
  * - The script uses the public API respectfully and does not overwhelm the server.
   
-   - <img width="736" height="402" alt="image" src="https://github.com/user-attachments/assets/5ad4d340-fb73-481e-839a-8ec858b996fa" />
-   (Search healper icons in the image, not included in this script. You need to get that in DC)
+   <img width="466" height="331" alt="image" src="https://github.com/user-attachments/assets/0908fc7a-c0bb-4417-9495-1a6ad2d1cde8" />
+
+   (Search healper icons in the image are not included in this script. You need to get that in DC approved scripts)
